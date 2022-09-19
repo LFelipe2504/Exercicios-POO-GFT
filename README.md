@@ -1,1 +1,2 @@
 # Exercicios-POO-GFT
+*.metadata/
